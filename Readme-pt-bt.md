@@ -1,4 +1,6 @@
-# Nome do Projeto: Gerenciador de Tarefas
+*🇺🇸 [Read this document in English](README.md)*
+
+# Nome do Projeto: Chatbot Prototype: Compreendendo os Fundamentos da IA
 Chatbot Baseado em Regras (Rule-Based System)
 
 Este repositório contém um protótipo de **Chatbot Baseado em Regras (Rule-Based System)**. O objetivo deste projeto não é criar um modelo de linguagem avançado, mas sim demonstrar, de forma simplificada e didática, como as inteligências artificiais processam entradas, buscam informações (raciocínio) e armazenam novos conhecimentos (aprendizado).
